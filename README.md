@@ -7,7 +7,7 @@
 
 ## Overview
 
-A production-ready dual-campus university network designed and fully implemented in **Cisco Packet Tracer 9.0**, serving **30,000+ users** across two geographically separated campuses with scalability up to **60,000 users**.
+A production-ready dual-campus university network designed and fully implemented in **Cisco Packet Tracer 8.2**, serving **30,000+ users** across two geographically separated campuses with scalability up to **60,000 users**.
 
 The design combines practical enterprise networking experience gained during an internship at **Scarlet Wireless India Pvt. Ltd., Mangaluru** with academic network engineering principles to deliver a secure, highly available, and fully documented campus network.
 
