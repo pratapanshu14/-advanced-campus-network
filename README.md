@@ -289,7 +289,7 @@ B.Tech — Electronics & Communication Engineering
 ABVGIET, Shimla | Batch 2022–2026  
 CCNA 200-301 Certified  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anshu-pratap-giri/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/pratapanshu14)
 
 ---
